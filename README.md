@@ -4,7 +4,7 @@ I am Sneh Gupta, an Indian, who has just stepped into the Cyber World and is exp
 I regularly participate in CTFs and Hackathons to hone my skills in coding and cybersecurity.
 I am attracted to **F**ree **O**pen **S**ource **S**oftwares and develop Command Line Interface based Tools and Applications.
 
-Check out **MonTra**, a simple yet efficient CLI-Based Finance Tracker based on Python, in my GitHub Repositories. You may find the way to manage your finance effectively ;)
+Check out **MonTra**, a simple yet efficient CLI-Based Finance Tracker based on Python, in my GitHub Repositories. You may find a way to manage your finance effectively ;)
 
 Follow me here as well as on [Instagram](https://instagram.com/sir_sneh_gupta), [Twitter](https://twitter.com/SnehG_004) and [Devpost](https://devpost.com/SirSnehGupta)
 
