@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Sneh Gupta, an Indian, who has just stepped into the Cyber World and is exploring more and more day by day!!
+I am Sneh Gupta from India, who has just stepped into the Cyber World and is exploring more and more day by day!!
 I regularly participate in CTFs and Hackathons to hone my skills in coding and cybersecurity.
 I am attracted to **F**ree **O**pen **S**ource **S**oftwares and develop Command Line Interface based Tools and Applications.
 
